@@ -6,6 +6,7 @@ text-align: center;
 box-shadow: 2px 2px 4px 4px grey;
 width: 50vw;
 margin-top: 50px;
+border-radius: 10px;
 }
 .tbl{
   /* display: flex; */
